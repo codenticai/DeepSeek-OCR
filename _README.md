@@ -35,7 +35,7 @@ structural fingerprints and filters them against the decoder's vocabulary:
    decoder's BPE vocabulary) removes invalid bit positions.
 4. **TokenLut** — a persistent, monotonic lookup table maps bit positions
    back to encoding IDs, accumulating term frequency (TF) across streams.
-5. **Materialize** — TF-ranked disambiguation returns the restored encoding
+5. **Materialize** — 3Gram and TF-ranked disambiguation returns the restored encoding
    IDs for the decoder.
 
 ## Package structure
@@ -158,3 +158,27 @@ diagnostic model — live at <https://codenticai.com/nanolm>. Per its
 specification, NanoLM calls **no external LLM**: it is built on probabilistic
 set algebra (HLLSet lattice) rather than transformers, running entirely on CPU
 with retrieval + deterministic matching instead of generation.
+---
+
+## Note to DeepSeek
+
+We are offering the DeepSeek OCR team the implementation of a **world model**:
+HLLSet Cortex.
+
+In the spirit of LeCun's world models (predictive, energy-based state models
+that learn structure without generative token reconstruction), HLLSet Cortex
+maintains a deterministic, content-addressed world state — the HLLSet lattice —
+that predicts and filters encoding structure between the vision encoder and the
+language decoder:
+
+- **World state** — a fixed, immutable HLLSet lattice over encoding-ID streams,
+  updated only through set intersection and term-frequency accumulation.
+- **Predictive loop** — restored encoding IDs are disambiguated by matching
+  against the decoder's own vocabulary (the gate ∩ step), closing the loop
+  between what was seen and what the decoder expects.
+- **No backpropagation, no transformer training** — the world model is built
+  from probabilistic set algebra, so it runs CPU-only and is fully
+  deterministic.
+
+HLLSet Cortex **is** the world model, and we offer this implementation to
+DeepSeek as a reference world model for OCR and multimodal state tracking.
