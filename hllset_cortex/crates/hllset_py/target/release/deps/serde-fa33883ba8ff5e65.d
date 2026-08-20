@@ -1,0 +1,14 @@
+D:\innovation\DeepSeek-OCR\hllset_cortex\crates\hllset_py\target\release\deps\serde-fa33883ba8ff5e65.d: C:\Users\k_dee\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.229\src\lib.rs C:\Users\k_dee\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.229\src\integer128.rs C:\Users\k_dee\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.229\src\private\mod.rs C:\Users\k_dee\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.229\src\private\de.rs C:\Users\k_dee\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.229\src\private\ser.rs D:\innovation\DeepSeek-OCR\hllset_cortex\crates\hllset_py\target\release\build\serde-009d67ca170ca123\out/private.rs
+
+D:\innovation\DeepSeek-OCR\hllset_cortex\crates\hllset_py\target\release\deps\libserde-fa33883ba8ff5e65.rlib: C:\Users\k_dee\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.229\src\lib.rs C:\Users\k_dee\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.229\src\integer128.rs C:\Users\k_dee\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.229\src\private\mod.rs C:\Users\k_dee\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.229\src\private\de.rs C:\Users\k_dee\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.229\src\private\ser.rs D:\innovation\DeepSeek-OCR\hllset_cortex\crates\hllset_py\target\release\build\serde-009d67ca170ca123\out/private.rs
+
+D:\innovation\DeepSeek-OCR\hllset_cortex\crates\hllset_py\target\release\deps\libserde-fa33883ba8ff5e65.rmeta: C:\Users\k_dee\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.229\src\lib.rs C:\Users\k_dee\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.229\src\integer128.rs C:\Users\k_dee\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.229\src\private\mod.rs C:\Users\k_dee\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.229\src\private\de.rs C:\Users\k_dee\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.229\src\private\ser.rs D:\innovation\DeepSeek-OCR\hllset_cortex\crates\hllset_py\target\release\build\serde-009d67ca170ca123\out/private.rs
+
+C:\Users\k_dee\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.229\src\lib.rs:
+C:\Users\k_dee\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.229\src\integer128.rs:
+C:\Users\k_dee\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.229\src\private\mod.rs:
+C:\Users\k_dee\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.229\src\private\de.rs:
+C:\Users\k_dee\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.229\src\private\ser.rs:
+D:\innovation\DeepSeek-OCR\hllset_cortex\crates\hllset_py\target\release\build\serde-009d67ca170ca123\out/private.rs:
+
+# env-dep:OUT_DIR=D:\\innovation\\DeepSeek-OCR\\hllset_cortex\\crates\\hllset_py\\target\\release\\build\\serde-009d67ca170ca123\\out

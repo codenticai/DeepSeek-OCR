@@ -1,0 +1,14 @@
+D:\innovation\DeepSeek-OCR\hllset_cortex\crates\hllset_py\target\release\deps\pyo3_build_config-7d7119467b67c267.d: C:\Users\k_dee\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\pyo3-build-config-0.23.5\src\lib.rs C:\Users\k_dee\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\pyo3-build-config-0.23.5\src\errors.rs C:\Users\k_dee\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\pyo3-build-config-0.23.5\src\impl_.rs D:\innovation\DeepSeek-OCR\hllset_cortex\crates\hllset_py\target\release\build\pyo3-build-config-618d8e8f14d1c690\out/pyo3-build-config-file.txt D:\innovation\DeepSeek-OCR\hllset_cortex\crates\hllset_py\target\release\build\pyo3-build-config-618d8e8f14d1c690\out/pyo3-build-config.txt
+
+D:\innovation\DeepSeek-OCR\hllset_cortex\crates\hllset_py\target\release\deps\libpyo3_build_config-7d7119467b67c267.rlib: C:\Users\k_dee\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\pyo3-build-config-0.23.5\src\lib.rs C:\Users\k_dee\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\pyo3-build-config-0.23.5\src\errors.rs C:\Users\k_dee\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\pyo3-build-config-0.23.5\src\impl_.rs D:\innovation\DeepSeek-OCR\hllset_cortex\crates\hllset_py\target\release\build\pyo3-build-config-618d8e8f14d1c690\out/pyo3-build-config-file.txt D:\innovation\DeepSeek-OCR\hllset_cortex\crates\hllset_py\target\release\build\pyo3-build-config-618d8e8f14d1c690\out/pyo3-build-config.txt
+
+D:\innovation\DeepSeek-OCR\hllset_cortex\crates\hllset_py\target\release\deps\libpyo3_build_config-7d7119467b67c267.rmeta: C:\Users\k_dee\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\pyo3-build-config-0.23.5\src\lib.rs C:\Users\k_dee\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\pyo3-build-config-0.23.5\src\errors.rs C:\Users\k_dee\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\pyo3-build-config-0.23.5\src\impl_.rs D:\innovation\DeepSeek-OCR\hllset_cortex\crates\hllset_py\target\release\build\pyo3-build-config-618d8e8f14d1c690\out/pyo3-build-config-file.txt D:\innovation\DeepSeek-OCR\hllset_cortex\crates\hllset_py\target\release\build\pyo3-build-config-618d8e8f14d1c690\out/pyo3-build-config.txt
+
+C:\Users\k_dee\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\pyo3-build-config-0.23.5\src\lib.rs:
+C:\Users\k_dee\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\pyo3-build-config-0.23.5\src\errors.rs:
+C:\Users\k_dee\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\pyo3-build-config-0.23.5\src\impl_.rs:
+D:\innovation\DeepSeek-OCR\hllset_cortex\crates\hllset_py\target\release\build\pyo3-build-config-618d8e8f14d1c690\out/pyo3-build-config-file.txt:
+D:\innovation\DeepSeek-OCR\hllset_cortex\crates\hllset_py\target\release\build\pyo3-build-config-618d8e8f14d1c690\out/pyo3-build-config.txt:
+
+# env-dep:CARGO_PKG_VERSION=0.23.5
+# env-dep:OUT_DIR=D:\\innovation\\DeepSeek-OCR\\hllset_cortex\\crates\\hllset_py\\target\\release\\build\\pyo3-build-config-618d8e8f14d1c690\\out

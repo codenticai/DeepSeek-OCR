@@ -1,0 +1,11 @@
+implementation=CPython
+version=3.10
+shared=true
+abi3=true
+lib_name=python3
+lib_dir=C:\Users\k_dee\AppData\Local\Python\pythoncore-3.14-64\libs
+executable=D:\innovation\guru-ewm\.venv\Scripts\python.exe
+pointer_width=64
+build_flags=
+python_framework_prefix=None
+suppress_build_script_link_lines=false

@@ -1,0 +1,6 @@
+hllset-py
+
+[dev]
+jupyter
+ipykernel
+matplotlib>=3.5
