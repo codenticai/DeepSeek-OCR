@@ -106,7 +106,6 @@ print(result.reconstructed)
 
 ## Related Project: Guru-EWM (Emerging World Models Platform)
 
-**Source:** [`D:\innovation\guru-ewm`](D:\innovation\guru-ewm)
 **Production URL:** <https://codenticai.com/nanolm>
 
 A self-hosted, **CPU-first** platform that combines NLP question answering,
