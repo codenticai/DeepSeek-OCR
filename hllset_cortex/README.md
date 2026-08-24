@@ -1,7 +1,7 @@
 # HLLSet Cortex — Encoding Restoration for DeepSeek-OCR
 
 A **reference implementation** for HLLSet Algebra applications built on
-[hllset-next](https://github.com/SGS_lib/fractal_manifold/hllset-next).
+[hllset-next](https://github.com/alexmy21/hllset-next).
 Receives encoding IDs from ds-OCR's vision encoder, processes them through
 the HLLSet Algebra pipeline, and returns restored encoding IDs for the decoder.
 
