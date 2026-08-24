@@ -202,4 +202,4 @@ ds-OCR v2 released → new tokenizer vocabulary
 - [STANDARD.md](docs/STANDARD.md) — governing development standard
 - [IICA_PRINCIPLES.md](docs/IICA_PRINCIPLES.md) — IICA gate definition
 - [DESIGN.md](DESIGN.md) — this module's design
-- [hllset-next](https://github.com/SGS_lib/fractal_manifold/hllset-next) — platform
+- [hllset-next](https://github.com/alexmy21/hllset-next) — platform
